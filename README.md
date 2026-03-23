@@ -11,19 +11,19 @@ The goal is to create a robust, scalable, and efficient motor controller, while 
 
 🧩 Features
 
-🔧 STM32G071 (ARM Cortex-M0+)
+ 🔧 STM32G071 (ARM Cortex-M0+)
 
-⚡ 3-phase BLDC control
+ ⚡ 3-phase BLDC control
 
-🧠 Compatible with AM32 firmware (planned)
+ 🧠 Compatible with AM32 firmware (planned)
 
-📈 Current sensing (shunt-based)
+ 📈 Current sensing (shunt-based)
 
-🔌 External gate driver (DRV8300 series)
+ 🔌 External gate driver (DRV8300 series)
 
-🛡️ TVS protection on power lines
+ 🛡️ TVS protection on power lines
 
-🧪 Designed for ~80A operation (target)
+ 🧪 Designed for ~80A operation (target)
 
 🛠️ Hardware
 
@@ -45,10 +45,10 @@ TODO
 
 🚧 Work in progress
  - [x] Component selection
- - [] Initial schematic
- - [] PCB layout
- - [] Firmware integration
- - [] Testing & validation
+ - [ ] Initial schematic
+ - [ ] PCB layout
+ - [ ] Firmware integration
+ - [ ] Testing & validation
  
 🎯 Goals
 
