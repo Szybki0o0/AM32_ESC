@@ -11,31 +11,31 @@ The goal is to create a robust, scalable, and efficient motor controller, while 
 
 🧩 Features
 
- 🔧 STM32G071 (ARM Cortex-M0+)
+ >🔧 STM32G071 (ARM Cortex-M0+)
 
- ⚡ 3-phase BLDC control
+ >⚡ 3-phase BLDC control
 
- 🧠 Compatible with AM32 firmware (planned)
+ >🧠 Compatible with AM32 firmware (planned)
 
- 📈 Current sensing (shunt-based)
+ >📈 Current sensing (shunt-based)
 
- 🔌 External gate driver (DRV8300 series)
+ >🔌 External gate driver (DRV8300 series)
 
- 🛡️ TVS protection on power lines
+ >🛡️ TVS protection on power lines
 
- 🧪 Designed for ~80A operation (target)
+ >🧪 Designed for ~80A operation (target)
 
 🛠️ Hardware
 
-🔹 Microcontroller STM32G071CBT6
+>🔹 Microcontroller STM32G071CBT6
 
-🔹 Gate Driver DRV8300 (D or N variant depending on design)
+>🔹 Gate Driver DRV8300 (D or N variant depending on design)
 
-🔹 Current Sensing Low-side shunt resistor Amplifier: INA180
+>🔹 Current Sensing Low-side shunt resistor Amplifier: INA180
 
-🔹 Power Stage External MOSFETs (to be defined)
+>🔹 Power Stage External MOSFETs (to be defined)
 
-🔹 Protection TVS diode (SMBJ series)
+>🔹 Protection TVS diode (SMBJ series)
 
 📂 Project Structure
 
