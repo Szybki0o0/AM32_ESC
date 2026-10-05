@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Solar_ESC_AM32.PrjPcb]
+   Generated File[Solar_ESC_AM32.TXT]
+   Generated File[Solar_ESC_AM32.LDP]
+   Generated File[Solar_ESC_AM32.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:34:18 On 5.09.2026

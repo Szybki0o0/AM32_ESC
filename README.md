@@ -37,38 +37,18 @@ The goal is to create a robust, scalable, and efficient motor controller, while 
 
 >🔹 Protection TVS diode (SMBJ series)
 
-📂 Project Structure
-
-TODO
-
 ⚙️ Development Status
 
 🚧 Work in progress
  - [x] Component selection
- - [ ] Initial schematic
- - [ ] PCB layout
+ - [x] Initial schematic
+ - [x] PCB layout
  - [ ] Firmware integration
  - [ ] Testing & validation
- 
-🎯 Goals
 
-- Build a fully working ESC from scratch
+PCB Layout:
 
-- Understand low-level BLDC control
-
-- Optimize power electronics design
-
-- Create a reusable platform for future products
-
-📌 Future Plans
-
-- Custom firmware tuning
-- Higher current versions
-- Integration with custom hardware ecosystem
-
-📖 Notes
-
-This project is part of a broader goal to design and manufacture custom electronic hardware for high-speed drones.
+![alt text](image.png)
 
 ⚠️ Disclaimer
 
